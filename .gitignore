@@ -1,0 +1,10 @@
+Simulator/*
+
+!Simulator/main.py
+!Simulator/smart_plug_test_data.csv
+!Simulator/.gitignore
+
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
